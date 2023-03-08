@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<strong align="center">
+ Hello, I'am a junior front end developer, 
+</strong
 ![Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurrohmann&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurrohmann&layout=compact&theme=vision-friendly-dark)
 
