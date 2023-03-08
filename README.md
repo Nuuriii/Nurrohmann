@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurrohmann)](https://github.com/Nurrohmann/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurrohmann&show_icons=true)
 <!--
 **Nurrohmann/Nurrohmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
