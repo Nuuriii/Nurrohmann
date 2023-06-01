@@ -1,5 +1,4 @@
 # Hi Everyone, I'm Nurrohman 👋
-
 ## I'm a Student, Developer, and Linux User!!!
 
 -  🌱 I'm learning Javascript
