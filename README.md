@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Linux User!!!
 
 -  🌱 I'm learning Javascript
--  👯 I’m looking to collaborate with other people
+-  👯 I’m looking to collaborate with other p
 -  🥅 2023 Goals: Want to become a Javascript Developer
 -  ⚡ Fun fact: I love animals and Dinosaurs
 
