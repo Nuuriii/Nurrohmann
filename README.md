@@ -1,8 +1,8 @@
 # Hi Everyone, I'm Nurrohman 👋
 ## I'm a Student, Developer, and Linux User!!!
--  🌱 I'm learning Javascript
+-  🌱 I'm learning TypeScript
 -  👯 I’m looking to collaborate with other people
--  🥅 2023 Goals: Want to become a Javascript Developer
+-  🥅 2023 Goals: Want to become a React Developer
 -  ⚡ Fun fact: I love animals and Dinosaurs
 
 ### Connect with me:
