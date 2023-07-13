@@ -1,6 +1,6 @@
 # Hi Everyone, I'm Nurrohman 👋
 ## I'm a Student, Developer, and Linux User!!!
--  <span>I learn TypeScript</span> <img  alt="JavaScript" height="18px" width="18px" src="https://api.iconify.design/logos:typescript-icon.svg" align=center />
+-  <span align="center">I learn TypeScript</span> <img  alt="JavaScript" height="18px" width="18px" src="https://api.iconify.design/logos:typescript-icon.svg" align="center" />
 -  👯 I’m looking to collaborate with other people
 -  🥅 2023 Goals: Want to become a React Developer
 -  ⚡ Fun fact: I love animals and Dinosaurs
