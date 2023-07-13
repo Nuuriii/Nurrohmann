@@ -1,6 +1,6 @@
 # Hi Everyone, I'm Nurrohman 👋
 ## I'm a Student, Developer, and Linux User!!!
--  <img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/logos:typescript-icon.svg" style="padding-right:10px;" />(https://iconscout.com/icons/typescript)
+-  <img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/logos:typescript-icon.svg" style="padding-right:10px;" />
 -  👯 I’m looking to collaborate with other people
 -  🥅 2023 Goals: Want to become a React Developer
 -  ⚡ Fun fact: I love animals and Dinosaurs
