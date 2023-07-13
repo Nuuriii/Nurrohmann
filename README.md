@@ -1,6 +1,6 @@
 # Hi Everyone, I'm Nurrohman 👋
 ## I'm a Student, Developer, and Linux User!!!
--  🌱 I'm learning TypeScript
+-  I'm learning TypeScript<img align="left" alt="TypeScript" width="26px" src="https://iconscout.com/icons/typescript" style="padding-right:10px;" />
 -  👯 I’m looking to collaborate with other people
 -  🥅 2023 Goals: Want to become a React Developer
 -  ⚡ Fun fact: I love animals and Dinosaurs
@@ -23,7 +23,6 @@
 <!-- https://t.me/NurrohmanMarduki -->
 
 ### Languages and Tools:
-
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
